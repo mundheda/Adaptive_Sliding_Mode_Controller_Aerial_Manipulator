@@ -1,3 +1,8 @@
 # Aerial-Manipulator-Control
 
-Design and control mechanism of the Manipulator on a drone 
+Design, and Control Mechanism of a Manipulator on a Drone with attached camera.
+
+## How to run:
+
+
+## Features
