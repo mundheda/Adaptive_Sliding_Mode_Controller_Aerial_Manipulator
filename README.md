@@ -1,6 +1,6 @@
 # Aerial-Manipulator-Control
 
-Design, and Control Mechanism of a Manipulator on a Drone with attached camera.
+An Advanced Adaptive Sliding Mode Controller to pick and place using an Aerial Manipulator (Quadcopter with attached Manipulator)
 
 ## How to run:
 
